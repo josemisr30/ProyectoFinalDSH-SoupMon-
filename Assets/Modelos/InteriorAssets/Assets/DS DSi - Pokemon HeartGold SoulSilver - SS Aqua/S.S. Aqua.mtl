@@ -1,0 +1,56 @@
+newmtl aqua_mn1
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_mn1.png
+map_Kd aqua_mn1.png
+map_d aqua_mn1.png
+newmtl aqua_mn2
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_mn2.png
+map_Kd aqua_mn2.png
+map_d aqua_mn2.png
+newmtl aqua_mn3
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_mn3.png
+map_Kd aqua_mn3.png
+map_d aqua_mn3.png
+newmtl aqua_mn4
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_mn4.png
+map_Kd aqua_mn4.png
+map_d aqua_mn4.png
+newmtl aqua_mn5
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_mn5.png
+map_Kd aqua_mn5.png
+map_d aqua_mn5.png
+newmtl aqua_mn6
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_mn6.png
+map_Kd aqua_mn6.png
+map_d aqua_mn6.png
+newmtl aqua_wd
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka aqua_wd.png
+map_Kd aqua_wd.png
+map_d aqua_wd.png
